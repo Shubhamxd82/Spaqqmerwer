@@ -81,7 +81,6 @@ class prankcall{
 		$word = "";
 		for($a=0;$a<$l;$a++){
 			$data[rand(0, strlen($data) - 1)]
-		}
 		return $word;
 	}
 	public function run(){
